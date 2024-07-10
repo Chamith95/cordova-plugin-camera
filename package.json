@@ -1,6 +1,6 @@
 {
   "name": "@madmobile/cordova-plugin-camera",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Cordova Camera Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
