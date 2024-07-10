@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-camera",
+  "name": "@madmobile/cordova-plugin-camera",
   "version": "5.0.3",
   "description": "Cordova Camera Plugin",
   "types": "./types/index.d.ts",
@@ -13,7 +13,7 @@
       "osx"
     ]
   },
-  "repository": "github:apache/cordova-plugin-camera",
+  "repository": "github:Chamith95/cordova-plugin-camera",
   "bugs": "https://github.com/apache/cordova-plugin-camera/issues",
   "keywords": [
     "cordova",
